@@ -1,4 +1,4 @@
-# firstproj
+# firstproj1
 (Solving task of finding a number of monotonically increasing sequences in N input ints)
 There is an N array on input. Needed to find a number of monotonically increasing seqs in this array.
 Test data:
